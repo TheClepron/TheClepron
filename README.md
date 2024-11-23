@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheClepron
 - 👀 I’m interested in Aerospace Engineering
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C/C++ and python
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me theclepron@gmail.com
 - 😄 Pronouns: Fazzu
